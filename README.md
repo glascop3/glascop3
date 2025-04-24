@@ -3,9 +3,9 @@
 </p>
 
 # 💫 About Me
-I am a licensed Electronics Engineer with 6+ years of multi-industry experience. I am currently working as a data analyst at a top Fortune 500 company with clients all around the globe. <br>
+I am a licensed Electronics Engineer with 6+ years of multi-industry experience, currently working as a data analyst at a top Fortune 500 company with clients all around the globe. <br>
 
-🔭 I’m currently working on building my portfolio to showcase my skills<br>👯 I’m looking to collaborate with everyone!<br>🌱 I’m currently learning Python and R, and further delve into Data Science <br>⚡ Fun fact: Cats are the best! :smirk_cat:
+🔭 I’m building my portfolio to showcase my skills in SQL, PowerBI, and Tableau <br>👯 Looking forward to collaborating with everyone!<br>🌱 Currently learning Python and R, and very interested in studying AI +  Machine Learning <br>⚡ Fun fact: Cats are the best! :smirk_cat:
 
 # 🚀 My Tools
 <p>
@@ -20,7 +20,11 @@ I am a licensed Electronics Engineer with 6+ years of multi-industry experience.
 </p>
 
 <p align="center">
-  <strong><big> </big></strong><br/>
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=glascop3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=glascop3&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img width="600" src="https://nirzak-streak-stats.vercel.app/?user=glascop3&theme=dark&hide_border=false" />
 </p>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
