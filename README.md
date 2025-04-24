@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me
-I am a licensed Electronics Engineer with 6+ years of multi-industry experience. I am currently working as a Data Analyst in a top Fortune 500 company with clients all around the globe. <br>
+I am a licensed Electronics Engineer with 6+ years of multi-industry experience. I am currently working as a data analyst at a top Fortune 500 company with clients all around the globe. <br>
 
 🔭 I’m currently working on building my portfolio to showcase my skills<br>👯 I’m looking to collaborate with everyone!<br>🌱 I’m currently learning Python and R, and further delve into Data Science <br>⚡ Fun fact: Cats are the best! :smirk_cat:
 
