@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me
-I am a licensed Electronics Engineer with 6+ years of multi-industry experience, currently working as a data analyst at a top Fortune 500 company with clients all around the globe. <br>
+I'm a Data Analyst who’s always looking to go above and beyond. This is my space to push my skills further — from uncovering insights to creating impactful visualizations, streamlining workflows, and driving smarter decisions through data. I'm passionate about turning numbers into narratives and using data not just to explain the past, but to shape the future!  <br>
 
 🔭 I’m building my portfolio to showcase my skills in SQL, PowerBI, and Tableau <br>👯 Looking forward to collaborating with everyone!<br>🌱 Currently learning Python and R, and very interested in studying AI +  Machine Learning <br>⚡ Fun fact: Cats are the best! :smirk_cat:
 
